@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Omar Oporto Bernal</h1>
 
-<h2 align="center">A passionate developer from Bolivia</h2>
+<h3 align="center">A passionate developer from Bolivia</h3>
 <br>
 
 - 👨‍💻 My portafolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/)
