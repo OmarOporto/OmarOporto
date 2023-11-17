@@ -24,7 +24,7 @@
 
 <h3 align="left">Programming Tools:</h3>
 
-<p style="text-align: left; background-color: #f0f0f0; padding: 10px;">
+<p style="text-align: left; background-color: #ffffff; padding: 10px;">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
