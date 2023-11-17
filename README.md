@@ -13,7 +13,7 @@
 
 <br/>
 
-- 💞️ I’m looking to collaborate on projects with React or .NET, but I am open to any kind of development project.
+- 💞️ I’m looking to collaborate on projects with React or .NET, but I am open to any kind of development projects.
 
 <h3 align="left">Connect with me:</h3>
 
