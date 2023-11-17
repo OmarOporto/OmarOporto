@@ -6,7 +6,7 @@
 <br>
 
 - 👨‍💻 My portafolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/)
-- 👀 I’m interested in all kinds of technologies, especially about development technologies.
+- 👀 I’m interested in all kinds of technologies, especially in development technologies.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Programming Tools:</h3>
 
-<p align="left">
+<p style="text-align: left; background-color: #f0f0f0; padding: 10px;">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
