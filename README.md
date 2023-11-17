@@ -19,15 +19,7 @@
             height="30"
             width="40"
         />
-    </a>
-    <a href="mailto:direccion@correo.com" target="_blank">
-        <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg"
-            alt="Correo Electrónico"
-            height="30"
-            width="40"
-        />
+        <h4> Only direct message by LinkedIn</h4>
     </a>
 </p>
 
