@@ -6,9 +6,13 @@
 <br>
 
 - 👨‍💻 My portfolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/). (You can find my email and phone number there.)
+
 <br/>
+
 - 👀 I’m interested in all kinds of technologies, especially in development technologies.
+
 <br/>
+
 - 💞️ I’m looking to collaborate on projects with React or .NET, but I am open to any kind of development project.
 
 <h3 align="left">Connect with me:</h3>
