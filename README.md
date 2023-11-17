@@ -6,7 +6,7 @@
 <br>
 
 - 👨‍💻 My portafolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/)
-- 👀 I’m interested in all kinds of technologies, especially in IAs at the moment I write this.
+- 👀 I’m interested in all kinds of technologies, especially about development technologies.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -16,6 +16,15 @@
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="omar oporto bernal"
+            height="30"
+            width="40"
+        />
+    </a>
+    <a href="mailto:direccion@correo.com" target="_blank">
+        <img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg"
+            alt="Correo Electrónico"
             height="30"
             width="40"
         />
