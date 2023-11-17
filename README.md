@@ -5,8 +5,10 @@
 <h3 align="center">A passionate developer from Bolivia</h3>
 <br>
 
-- 👨‍💻 My portafolio is available at [https://delicate-lake-5083.fly.dev/] ( https://delicate-lake-5083.fly.dev/) (you can find my email and number here )
+- 👨‍💻 My portfolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/). (You can find my email and phone number there.)
+<br>
 - 👀 I’m interested in all kinds of technologies, especially in development technologies.
+<br>
 - 💞️ I’m looking to collaborate on projects with React or .NET, but I am open to any kind of development project.
 
 <h3 align="left">Connect with me:</h3>
