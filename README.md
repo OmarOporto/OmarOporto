@@ -121,4 +121,4 @@
     </a>
 </p>
 
-<p style="text-align: right; color: #000fff; padding: 10px;">Version 1.11.3</p>
+<p style="text-align: right; color: #000fff; padding: 10px;">Version 1.11.4</p>
